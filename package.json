@@ -1,0 +1,27 @@
+{
+  "name": "artillery-exploring-exploding",
+  "version": "1.0.0",
+  "description": "Example of performance test for http with artillery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julianhm9612/artillery-exploring-exploding.git"
+  },
+  "keywords": [
+    "Artillery",
+    "Load Testing",
+    "Testing"
+  ],
+  "author": "Julian Henao Marin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Julianhm9612/artillery-exploring-exploding/issues"
+  },
+  "homepage": "https://github.com/Julianhm9612/artillery-exploring-exploding#readme",
+  "devDependencies": {
+    "artillery": "^2.0.0-32"
+  }
+}

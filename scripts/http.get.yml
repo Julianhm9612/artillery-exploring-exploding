@@ -1,0 +1,10 @@
+config:
+  target: "https://jsonplaceholder.typicode.com/todos"
+  phases:
+    - duration: 10
+      arrivalRate: 1
+scenarios:
+  - flow:
+    - log: "New virtual user running"
+    - get:
+          url: "/"
